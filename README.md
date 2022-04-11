@@ -1,6 +1,6 @@
-# js-jest-coverage-examples
+# Jest coverage examples
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2 for showing difference between naive and proper Jest coverage configuration.
+Example repo for the [Testing - Coverage sub-chapter of the Angular handbook](https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/testing#coverage).
 
 ## Running unit tests
 
